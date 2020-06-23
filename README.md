@@ -86,20 +86,3 @@ An Example Class List with Embedded Homeworks and Exams:
 6. as a user, I can filter homeworks or exams by class.
 7. as a user, I can filter homeworks by completed homeworks.
 8. as a user, I can cross off homeworks and exams in the classes list.
-
-## Research Topics
-
-* (5 points) Integrate user authentication
-    * I'm going to be using passport for user authentication
-* (3 points) Perform client side form validation using custom JavaScript
-    * I'm going to write my own code for client side form validation
-
-8 points total out of 8 required points
-
-
-## [Link to Initial Main Project File](https://github.com/nyu-csci-ua-0480-008-spring-2020/dwc291-final-project/blob/0efd70f120f19c2ec285a71d775f568acf42aa42/src/app.js#L1) 
-
-## Annotations / References Used
-
-1. [passport.js authentication docs](http://passportjs.org/docs)
-
